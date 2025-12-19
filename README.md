@@ -1,8 +1,3 @@
-Below is a **clear, professional `README.md`** you can copy-paste.
-It explains **what the project is, how it works, how to run it, and your thinking** — exactly what evaluators look for.
-
----
-
 # 📌 Mini Issue Tracker
 
 A simple full-stack **issue tracking application** inspired by tools like Jira.
